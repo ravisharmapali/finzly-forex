@@ -1,0 +1,6 @@
+com.finzly.fxtrading
+com.finzly.fxtrading.config
+com.finzly.fxtrading.controllers
+com.finzly.fxtrading.entities
+com.finzly.fxtrading.repo
+com.finzly.fxtrading.services

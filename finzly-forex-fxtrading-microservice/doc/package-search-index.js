@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.finzly.fxtrading"},{"l":"com.finzly.fxtrading.config"},{"l":"com.finzly.fxtrading.controllers"},{"l":"com.finzly.fxtrading.entities"},{"l":"com.finzly.fxtrading.repo"},{"l":"com.finzly.fxtrading.services"}];updateSearchResults();
