@@ -1,0 +1,15 @@
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\services\CurrencyServices.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\entities\Trade.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\excecption\ApiException.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\entities\Currency.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\excecption\CurrencyException.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\controllers\TradeController.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\excecption\ResourceNotFoundException.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\controllers\CurrencyController.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\services\CurrencyServiceImpl.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\repo\TradeRepository.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\excecption\GlobalExceptionHandler.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\services\TradeServicesImpl.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\FinzlyFxtradingAppApisApplication.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\repo\CurrencyRepository.java
+C:\Users\Ravi Sharma\Downloads\finzly-fxtrading-app-apis\finzly-fxtrading-app-apis\src\main\java\com\finzly\fxtrading\services\TradeServices.java
